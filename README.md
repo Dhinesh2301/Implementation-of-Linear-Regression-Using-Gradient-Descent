@@ -59,12 +59,8 @@ print(f"Predicted value: {pre}")
 
 
 ## Output:
-### Data Information
-![310188551-a7888ba2-5abe-4057-9560-07ba652a980c](https://github.com/gauthamkrishna7/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/141175025/4015031e-f796-4985-b91e-2bcad67262af)
+![image](https://github.com/user-attachments/assets/7195434f-b880-40fe-bdf8-ceae7e5d2473)
 
-<br>
-<br>
-<br>
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
